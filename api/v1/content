@@ -1,0 +1,19 @@
+{
+    "sucess": true,
+    "message": "Techblox Custom Skins API Database",
+    "page": 1,
+    "pages": 1,
+    "per_page": 100,
+    "skins": [
+        { "id": 1000, "name": "Skin_1000", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1001, "name": "Skin_1001", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1003, "name": "Skin_1003", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1005, "name": "Skin_1005", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1009, "name": "Skin_1009", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1010, "name": "Skin_1010", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1012, "name": "Skin_1012", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1013, "name": "Skin_1013", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1015, "name": "Skin_1015", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" },
+        { "id": 1018, "name": "Skin_1018", "author": "Techblox Team", "license": "CC-BY-SA-4.0", "type": "pe", "img": "" }
+    ]
+}
